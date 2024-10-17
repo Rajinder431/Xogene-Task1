@@ -2,11 +2,9 @@ Running the Project Locally
 
 To run the project locally, follow these steps:
 
-Start the development server: bash : npm start
+Start the development server: bash : npm run dev
 
-or if you're using yarn:
-
-bash : yarn start Open your web browser and go to:
+go to:
 
 http://localhost:5173/drugs/search
 
